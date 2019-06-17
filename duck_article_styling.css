@@ -5,8 +5,7 @@ header {
     z-index: 10;
     text-align: center
     max-width: 800px;
-    
-  }
+ }
 
 
 
@@ -40,3 +39,8 @@ header {
     background: rgb(226, 218, 218);
 }
 
+p {
+    font-family: "Arial";
+    font-size: 14px;
+    
+}
