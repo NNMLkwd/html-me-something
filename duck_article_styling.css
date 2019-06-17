@@ -23,8 +23,9 @@ header {
 }
 
 #container{
-    width: 525px;
+    width:  525px;
     background: rgb(228, 228, 135);
+    padding: 20px;
 }
 #floated{
     float: left;
