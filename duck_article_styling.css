@@ -24,11 +24,11 @@ header {
 
 #container{
     width: 525px;
-    background: rgb(121, 121, 115);
+    background: rgb(228, 228, 135);
 }
 #floated{
     float: left;
     width: 150px;
-    background: rgb(95, 92, 92);
+    background: rgb(226, 218, 218);
 }
 
