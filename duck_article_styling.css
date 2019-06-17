@@ -22,3 +22,13 @@ header {
     max-width: 370px;
 }
 
+#container{
+    width: 525px;
+    background: rgb(121, 121, 115);
+}
+#floated{
+    float: left;
+    width: 150px;
+    background: rgb(95, 92, 92);
+}
+
