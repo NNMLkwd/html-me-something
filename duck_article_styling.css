@@ -39,7 +39,9 @@ header {
     background-color: rgb(238, 238, 189);
     overflow: hidden;
     padding: 20px;
-    border-left: 25px solid rgb(39, 25, 10)
+    border-left: 25px solid rgb(39, 25, 10);
+    border-right: 25px solid rgb(39, 25, 10);
+
 
 }
 #floated{
